@@ -1,0 +1,5 @@
+[2023-09-25T18:35:06.282+0300] {processor.py:157} INFO - Started process (PID=251) to work on /home/silvervolve/AirFlowProject/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-25T18:35:06.283+0300] {processor.py:829} INFO - Processing file /home/silvervolve/AirFlowProject/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-09-25T18:35:06.284+0300] {logging_mixin.py:151} INFO - [2023-09-25T18:35:06.284+0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/silvervolve/AirFlowProject/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-25T18:35:06.288+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/silvervolve/AirFlowProject/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-25T18:35:06.304+0300] {processor.py:179} INFO - Processing /home/silvervolve/AirFlowProject/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
